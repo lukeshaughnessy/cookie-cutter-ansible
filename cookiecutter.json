@@ -2,7 +2,7 @@
   "full_name": "Name",
   "email": "email.com",
   "role_name": "myrolename",
-  "github_user": "xentaurs",
+  "github_user": "someuser",
   "repo_name": "ansible_example_role",
   "short_description": "This Ansible Role infuses antigravity, you are warned",
   "release_date": "2017-08-17",
