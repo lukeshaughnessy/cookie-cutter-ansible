@@ -19,7 +19,7 @@ project that I used as a starting point.
 ## Usage
 
 1. Install [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/installation.html#install-cookiecutter): `pip install cookiecutter`
-1. `cookiecutter <this git repo`
+1. `cookiecutter <this git repo>`
 
 It will ask you questions about the structure of your role like tasks names, handlers names, and default variables. You can jump to the next question by entering an empty string.
 
