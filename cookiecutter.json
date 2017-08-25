@@ -1,0 +1,15 @@
+{
+  "full_name": "Name",
+  "email": "email.com",
+  "role_name": "myrolename",
+  "github_user": "xentaurs",
+  "repo_name": "ansible_example_role",
+  "short_description": "This Ansible Role infuses antigravity, you are warned",
+  "release_date": "2017-08-17",
+  "year": "2017",
+  "version": "0.0.1",
+  "min_ansible_version": "2.2",
+  "driver": "vagrant",
+  "platform_name": "ubuntu/trusty64",
+  "forwarded_port": "9200"
+}
